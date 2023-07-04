@@ -11,13 +11,25 @@ import glob
 import os
 
 ## The Sequence Of Events Is As Follows
+#   Checking The Directories WE Need Are There
 #   First We Choose 3 Spells From The Database And Mark Them As Chosen In The Chosen Spells Database To Avoid Reusing Them Later
+#   We Define The Episode Number Here
+#   Here We Insert Chosen Spells To A Database
 #   Second We Turn Each Spell,Description Pair Into an Audio File
 #   Third We Add The Spell,Description Text To A Random Chosen Image
 #   Fourth Each Image Will Be Paired With Its Audio And Converted To A Video
-#   Insert Chosen Spells To A Database
-#   We Make The Intro Between These Two Steps
 #   Fifth We Merge The Resulting Videos And Add BackGround Music
+
+#   Checking The Directories WE Need Are There
+
+if os.path.exists("./Episodes"):
+    pass
+else:
+    os.mkdir("./Episodes")
+if os.path.exists("./Episodes/Spells"):
+    pass
+else:
+    os.mkdir("./Episodes/Spells")
 
 #   First We Choose 3 Spells From The Database And Mark Them As Chosen In The Chosen Spells Database To Avoid Reusing Them Later
 
