@@ -5,7 +5,7 @@ import os
 
 
 def text_to_image(episode, bg_image, text_1, text_2):
-    # Define the size of the iPhone 12 Pro Max screen (in pixels)
+    # Define the size of the screen (in pixels)
     screen_size = (1284, 2778)
 
     # Create a new image with the size of screen
@@ -57,7 +57,7 @@ def text_to_image(episode, bg_image, text_1, text_2):
     image.save(f"./Episodes/Spells/{episode}/{text_1}/{text_1}.png")
 
 def intro_image(ep_number, bg_image, text_1, text_2):
-    # Define the size of the iPhone 12 Pro Max screen (in pixels)
+    # Define the size of the screen (in pixels)
     screen_size = (1284, 2778)
 
     # Create a new image with the size of screen
