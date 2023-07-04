@@ -1,0 +1,154 @@
+
+1-Aberto : Opens locked doors
+
+2-Accio : Summons objects
+
+3-Aguamenti : Summons water
+
+4-Alohomora : Unlocks objects
+
+5-Anapneo : Clears someone's airway
+
+6-Aparecium : Reveals secret written messages
+
+7-Apparate : A non-verbal transportation spell that allows a witch or wizard to instantly travel on the spot and appear at another location (disapparate is the opposite)
+
+8-Ascendio : Propells someone into the air
+
+9-Avada Kedavra : Also known as The Killing Curse, the most evil spell in the Wizarding World; one of three Unforgivable Curses; Harry Potter is the only known witch or wizard to survive it
+
+10-Avis : Conjures a small flock of birds
+
+11-Bat : Bogey Hex - Turns the target's boogers into bats
+
+12-Bombardo : Creates an explosion
+
+13-Brackium Emendo : Heals broken bones
+
+14-Capacious Extremis : Known as the Extension Charm, it's a complicated spell that can greatly expand or extend the capacity of an object or space without affecting it externally
+
+15-Confundo : Known as the Confundus Charm, it causes confusion of the target
+
+16-Conjunctivitis Curse : Affects the eyes and sight of a target
+
+17-Crinus Muto : Changes hair color and style
+
+18-Crucio : One of three Unforgivable Curses, it causes unbearable pain in the target
+
+19-Diffindo : Used to precisely cut an object
+
+20-Disillusionment Charm : Causes the target to take on the appearance of its surroundings
+
+21-Disapparate : A non-verbal transportation spell that allows a witch or wizard to instantly travel on the spot and leave for another location (apparate is the opposite)
+
+22-Engorgio : Causes rapid growth in the targeted object
+
+23-Episkey : Heals minor injuries
+
+24-Expecto patronum : The Patronus Charm is a powerful projection of hope and happiness that drives away Dementors; a corpeal Patronus takes the the respective animal form of the caster, while a non-corpeal appears as a wisp of light; at 13, Harry Potter was the youngest known witch or wizard to prouduce a corpeal Patronus
+
+25-Erecto : Allows a witch or wizard to build a structure, like a tent
+
+26-Evanesco : Vanishes objects
+
+27-Expelliarmus : Forces an opponent to drop whatever's in their possession
+
+28-Ferula : A healing charm that conjures wraps and bandages for wounds
+
+29-Fidelius Charm : A complex charm that conceals a secret into the soul of a chosen "Secret Keeper". If a location is the subject of concealment, it becomes undetectable to others
+
+30-Fiendfyre Curse : Conjures destructive, enormous enchanted flames
+
+31-Finite Incantatem : A general counter-spell that's used to reverse or counter already cast charms
+
+32-Furnunculus Curse : A jinx that causes a breakout of boils or pimples
+
+33-Geminio : Duplicates objects
+
+34-Glisseo : Transforms a staircase into a slide
+
+35-Homenum Revelio : Reveals the presence of another person
+
+36-Homonculus Charm : Detects anyone's true identity and location on a piece of parchment; used to create the Marauder's Map
+
+37-Immobulus : Immobilises living targets
+
+38-Impedimenta : A temporary jinx that slows the movement of the target
+
+39-Incarcerous : Conjures ropes
+
+40-Imperio : One of the three Unforgivable Curses, it places the target under the complete control of the caster
+
+41-Impervius : Makes an object waterproof
+
+42-Incendio : Conjures flames
+
+43-Langlock : Causes the target's tongue to stick to the roof of their mouth
+
+44-Legilimens : Invading or navigating another's mind
+
+45-Levicorpus : Levitates the target by their ankle
+
+46-Locomotor Mortis : The Leg-Locker curse bounds the target's legs
+
+47-Lumos : Illuminates the caster's wand
+
+48-Morsmordre : Conjures and projects Lord Voldemort's Dark Mark
+
+49-Mucus Ad Nauseam : Inflicts an extreme runny nose or cold
+
+50-Muffliato : Creates a buzzing sound in the target's ears to prevent eavesdropping
+
+51-Nox : Reverses the lumos charm, extinguishing a wand's light
+
+52-Obliviate : Erases the target's memory
+
+53-Obscuro : Conjures a blindfold
+
+54-Oculus Reparo : Repairs eyeglasses
+
+55-Oppugno : Directs an object or person to attack a victim
+
+56-Petrificus Totalus : Temporarily freezes or petrifies the body of the target
+
+57-Periculum : Conjures flares/red sparks
+
+58-Piertotum Locomotor : Incantation used to bring to life inanimate objects and artifacts
+
+59-Protean Charm : Links objects together for better communication
+
+60-Protego : Casts an invisible shield around the caster, protecting against spells and objects (except for The Killing Curse)
+
+61-Reducto : Reduces the target to pieces
+
+62-Reducio : Shrinks an enlarged object to its regular size
+
+63-Renneverate : Awakens or revives the target
+
+64-Reparifors : Heals magical ailments like poisoning or paralysis
+
+65-Reparo : Fixes broken objects
+
+66-Rictusempra : A charm that disarms an opponent by tickling them
+
+67-Riddikulus : Used to defeat a Boggart, the charm allows the scary creature to assume a comedic form, disarming it
+
+68-Scourgify : Cleans objects
+
+69-Sectumsempra : Inflicts severe lacerations and haemorrhaging on the target
+
+70-Serpensortia : Conjures a live snake
+
+71-Silencio : Silences the target
+
+72-Sonorus : Amplifies the witch or wizard's voice
+
+73-Spongify : Softens the target
+
+74-Stupefy : The Stunning spell freezes objects and renders living targets unconscious
+
+75-Tarantallegra : Aimed at the legs, causes uncontrollable dancing movement
+
+76-Unbreakable Vow : A magically binding contract that results in the death of whoever breaks it
+
+77-Wingardium Leviosa : Causes an object to levitate; but remember what Hermione said: "It's Wing-gar-dium Levi-o-sa, make the 'gar' nice and long.'"
