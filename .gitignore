@@ -1,5 +1,5 @@
 venv/
 for_later/
-_pycache_/
+__pycache__/
 Episodes/
 characters.josn
